@@ -1,0 +1,42 @@
+{
+  "request": {
+    "tour_place": 1,
+    "tour_kinds": null,
+    "event_year": "2022",
+    "event_month": "3"
+  },
+  "holidays": ["2022-03-01", "2022-03-02", "2022-03-02", "2022-03-03", "2022-03-05", "2022-03-16", "2022-03-22", "2022-03-29", "2022-03-30", "2022-03-31"],
+  "site_kind": "admin",
+  "tour_places": [{
+    "id": 1,
+    "title": "奥多摩"
+  }, {
+    "id": 2,
+    "title": "大月"
+  }, {
+    "id": 3,
+    "title": "古里"
+  }],
+  "tour_kind": [{
+    "id": "1",
+    "title": "ダッキー",
+    "one_day": false
+  }, {
+    "id": "2",
+    "title": "ラフティング",
+    "one_day": false
+  }, {
+    "id": "7",
+    "title": "ファミリーラフティング",
+    "one_day": false
+  }, {
+    "id": "13",
+    "title": "1DAY ラフティング＋SUP",
+    "one_day": true
+  }, {
+    "id": "14",
+    "title": "1DAY ラフティング＋ダッキー",
+    "one_day": true
+  }],
+  "data": []
+}
